@@ -1,5 +1,8 @@
 # Chrome Extension Template with React and Webpack
 
+<img width="960" alt="image" src="https://github.com/AkashShinde-c/Chrome-Extension-Template-React-Webpack-/assets/54067548/f39b2869-d9b9-4d7d-9779-9fea3159dea0">
+
+
 This is a starter template for building a Chrome extension using React and Webpack. It provides a basis for starting to build your extension in a familiar environment with modern JavaScript tools.
 
 ## Getting Started
