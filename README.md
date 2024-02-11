@@ -17,7 +17,7 @@ Before getting started, ensure that you have Node.js and npm (Node Package Manag
     cd chrome-extension-template
 
 3. Install the dependencies:
-    ```javascript
+    ```bash
     npm install
 
 ## Usage
