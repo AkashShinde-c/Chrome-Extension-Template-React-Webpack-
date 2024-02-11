@@ -11,22 +11,24 @@ Before getting started, ensure that you have Node.js and npm (Node Package Manag
 ### Installation
 
 1. Clone this repository to your local machine:
+    ```bash
     git clone https://github.com/your-username/chrome-extension-template.git
 
 2. Navigate to the project directory:
+    ```bash
     cd chrome-extension-template
 
 3. Install the dependencies:
     ```bash
     npm install
 
-## Usage
+### Usage
 
+    ```bash
     npm run build
-
     This command will create a production-ready bundle of your extension in the `dist` directory.
 
-## Installing the Chrome Extension
+### Installing the Chrome Extension
 
 1. Open Google Chrome and navigate to `chrome://extensions/`.
 2. Enable "Developer mode" by toggling the switch in the top-right corner.
