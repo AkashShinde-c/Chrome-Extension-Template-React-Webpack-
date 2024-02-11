@@ -24,8 +24,8 @@ Before getting started, ensure that you have Node.js and npm (Node Package Manag
 
 ### Usage
 
-    ```bash
     npm run build
+    
     This command will create a production-ready bundle of your extension in the `dist` directory.
 
 ### Installing the Chrome Extension
